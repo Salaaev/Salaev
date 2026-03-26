@@ -1,4 +1,5 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="http://epg.ru-tv.site/14.xml" x-tvg-url="http://epg.ru-tv.site/14-light.xml""https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,http://epg.it999.ru/epg2.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
+
 #EXTINF:-1 timeshift="5" xui-id="5004" tvg-id="ort-hd" tvg-name="Первый канал HD" tvg-logo="http://icon.dnsfor.me/icon/Pervijhd.png" group-title="Россия",Первый канал HD
 http://a.stroj-bt.com:89/play/PvnBVhXIkIzPYbB0OksY1nWOUeAyA3CtCAWwdSvE9bs/ts
 #EXTINF:-1 xui-id="18899" tvg-id="ortint" tvg-name="Первый канал (Россия) Европа" tvg-logo="http://icon.dnsfor.me/icon/Pervij_europa.png" group-title="Россия",Первый канал (Россия) Европа
